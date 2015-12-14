@@ -22,7 +22,7 @@ class Bakusui{
 			if(nemuke <2)
 				System.out.println("しかし寝た");
 		}
-		System.out.print("エビ覚醒！！");
+		System.out.print("エビ覚醒！！！");
 	}
 
 }
